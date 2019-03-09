@@ -7,4 +7,6 @@ package com.abstarctFactory;
  * @create: 2019-03-08 23:26
  **/
 public interface Phone {
+
+    public void bootStrap();
 }

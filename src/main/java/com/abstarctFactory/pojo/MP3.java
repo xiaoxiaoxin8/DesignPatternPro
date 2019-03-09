@@ -7,4 +7,6 @@ package com.abstarctFactory;
  * @create: 2019-03-08 23:25
  **/
 public interface MP3 {
+
+    public void play();
 }

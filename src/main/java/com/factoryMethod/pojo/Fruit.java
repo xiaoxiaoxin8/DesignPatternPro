@@ -7,4 +7,5 @@ package com.factoryMethod;
  * @create: 2019-03-08 22:48
  **/
 public interface Fruit {
+    public void name();
 }
