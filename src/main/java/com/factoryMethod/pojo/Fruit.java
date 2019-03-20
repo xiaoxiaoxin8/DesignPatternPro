@@ -1,4 +1,4 @@
-package com.factoryMethod;
+package com.factoryMethod.pojo;
 
 /**
  * @program: DesignPatternPro

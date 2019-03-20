@@ -7,4 +7,12 @@ package com.singleton.huangry;
  * @create: 2019-03-11 12:31
  **/
 public class HuangrySingleton {
+
+    private static final HuangrySingleton huangrySingleton = new HuangrySingleton();
+
+    private  HuangrySingleton(){};
+
+    public static HuangrySingleton getInstance(){
+        return huangrySingleton;
+    }
 }

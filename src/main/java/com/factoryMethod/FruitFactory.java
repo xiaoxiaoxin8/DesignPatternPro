@@ -1,5 +1,7 @@
 package com.factoryMethod;
 
+import com.factoryMethod.pojo.Fruit;
+
 /**
  * @program: DesignPatternPro
  * @description: 水果工厂接口
@@ -8,5 +10,5 @@ package com.factoryMethod;
  **/
 public interface FruitFactory {
 
-    public Fruit createFruit();
+    public Fruit create();
 }

@@ -1,7 +1,5 @@
 package com.factoryMethod.pojo;
 
-import com.factoryMethod.Fruit;
-
 /**
  * @program: DesignPatternPro
  * @description: 香蕉类
@@ -9,4 +7,7 @@ import com.factoryMethod.Fruit;
  * @create: 2019-03-08 23:13
  **/
 public class Banana implements Fruit {
+    public void name() {
+        System.out.println("我是一个香蕉");
+    }
 }

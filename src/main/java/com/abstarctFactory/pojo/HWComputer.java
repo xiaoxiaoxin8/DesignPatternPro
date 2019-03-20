@@ -1,7 +1,5 @@
 package com.abstarctFactory.pojo;
 
-import com.abstarctFactory.Computer;
-
 /**
  * @program: DesignPatternPro
  * @description: 华为电脑
@@ -9,4 +7,7 @@ import com.abstarctFactory.Computer;
  * @create: 2019-03-08 23:29
  **/
 public class HWComputer implements Computer {
+    public void netPlay() {
+        System.out.println("华为电脑上网");
+    }
 }

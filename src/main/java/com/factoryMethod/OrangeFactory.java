@@ -1,5 +1,6 @@
 package com.factoryMethod;
 
+import com.factoryMethod.pojo.Fruit;
 import com.factoryMethod.pojo.Orange;
 
 /**
@@ -9,7 +10,7 @@ import com.factoryMethod.pojo.Orange;
  * @create: 2019-03-08 23:17
  **/
 public class OrangeFactory implements FruitFactory{
-    public Orange createFruit() {
+    public Fruit create() {
         return new Orange();
     }
 }

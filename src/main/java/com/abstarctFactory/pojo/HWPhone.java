@@ -1,7 +1,5 @@
 package com.abstarctFactory.pojo;
 
-import com.abstarctFactory.Phone;
-
 /**
  * @program: DesignPatternPro
  * @description: 华为手机
@@ -9,4 +7,7 @@ import com.abstarctFactory.Phone;
  * @create: 2019-03-08 23:28
  **/
 public class HWPhone implements Phone {
+    public void bootStrap() {
+        System.out.println("华为手机开机");
+    }
 }

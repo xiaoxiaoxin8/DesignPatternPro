@@ -1,7 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc8738ad-ef3d-46ff-ac4d-dd7951489b7f" name="Default Changelist" comment="" />
+    <list default="true" id="bc8738ad-ef3d-46ff-ac4d-dd7951489b7f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proxy/DynamicProxy/DynamicProxyGasCom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proxy/DynamicProxy/DynamicProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proxy/staticproxy/pojo/GasCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proxy/staticproxy/pojo/GasProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proxy/staticproxy/pojo/StaticCompanyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/proxy/staticproxy/pojo/XinAoGas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/strategy/PayFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/strategy/PayStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/strategy/PayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/strategy/PayTypeInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/strategy/pay/AliPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/strategy/pay/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/strategy/pay/VipPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/strategy/pay/WeChatPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/strategy/pojo/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstarctFactory/AbstarctFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstarctFactory/AbstarctFactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstarctFactory/EleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstarctFactory/EleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstarctFactory/HWFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstarctFactory/HWFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstarctFactory/pojo/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstarctFactory/pojo/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstarctFactory/pojo/HWComputer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstarctFactory/pojo/HWComputer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstarctFactory/pojo/HWMP3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstarctFactory/pojo/HWMP3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstarctFactory/pojo/HWPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstarctFactory/pojo/HWPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstarctFactory/pojo/MP3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstarctFactory/pojo/MP3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstarctFactory/pojo/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstarctFactory/pojo/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/factoryMethod/BananaFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/factoryMethod/BananaFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/factoryMethod/FactoryMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/factoryMethod/FactoryMethodTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/factoryMethod/FruitFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/factoryMethod/FruitFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/factoryMethod/OrangeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/factoryMethod/OrangeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/factoryMethod/pojo/Banana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/factoryMethod/pojo/Banana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/factoryMethod/pojo/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/factoryMethod/pojo/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/factoryMethod/pojo/Orange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/factoryMethod/pojo/Orange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simpleFactory/AppleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simpleFactory/AppleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simpleFactory/SimpleFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simpleFactory/SimpleFactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simpleFactory/pojo/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simpleFactory/pojo/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/singleton/huangry/HuangrySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/singleton/huangry/HuangrySingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/singleton/lazy/DoubleCheckLazySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/singleton/lazy/DoubleCheckLazySingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/singleton/lazy/LazyInnerSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/singleton/lazy/LazyInnerSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/singleton/lazy/LazySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/singleton/lazy/LazySingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/singleton/register/ContainerSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/singleton/register/ContainerSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/singleton/register/EnumSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/singleton/register/EnumSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/singleton/seriable/SeriableSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/singleton/seriable/SeriableSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/EnumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/EnumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WeekDayEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WeekDayEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pattern/singleton/LazyInnerSingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pattern/singleton/LazyInnerSingletonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pattern/singleton/SeriableSingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pattern/singleton/SeriableSingletonTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -10,94 +57,227 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/abstarctFactory/EleFactory.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/strategy/PayFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/abstarctFactory/pojo/HWPhone.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/abstarctFactory/pojo/HWComputer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/abstarctFactory/AbstarctFactoryTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/abstarctFactory/HWFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+            <state relative-caret-position="15">
+              <caret line="18" column="48" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#216#217#0" expanded="true" />
-                <element signature="e#243#244#0" expanded="true" />
-                <element signature="e#277#278#0" expanded="true" />
-                <element signature="e#304#305#0" expanded="true" />
-                <element signature="e#344#345#0" expanded="true" />
-                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#226#241#0" expanded="true" />
+                <element signature="e#752#753#0" expanded="true" />
+                <element signature="e#808#809#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/abstarctFactory/pojo/HWMP3.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/proxy/DynamicProxy/DynamicProxyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+            <state relative-caret-position="132">
+              <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/abstarctFactory/MP3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        <entry file="uml://JAVA/com.strategy.PayFactory">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>com.strategy.PayFactory</OriginalElement>
+              <nodes>
+                <node x="0.0" y="127.0">com.strategy.pay.WeChatPay</node>
+                <node x="395.93000000000006" y="254.0">com.strategy.PayFactory</node>
+                <node x="219.0" y="127.0">com.strategy.pay.AliPay</node>
+                <node x="438.0" y="127.0">com.strategy.pay.VipPay</node>
+                <node x="658.0" y="104.0">com.strategy.PayTypeInterface</node>
+                <node x="453.08000000000004" y="0.0">com.strategy.pay.Payment</node>
+                <node x="589.4300000000001" y="382.0">com.strategy.PayStrategy</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="com.strategy.pay.WeChatPay" target="com.strategy.pay.Payment">
+                  <point x="0.0" y="-27.0" />
+                  <point x="99.5" y="74.0" />
+                  <point x="472.98" y="74.0" />
+                  <point x="-79.60000000000002" y="27.0" />
+                </edge>
+                <edge source="com.strategy.pay.VipPay" target="com.strategy.pay.Payment">
+                  <point x="0.0" y="-27.0" />
+                  <point x="537.5" y="84.0" />
+                  <point x="552.58" y="84.0" />
+                  <point x="0.0" y="27.0" />
+                </edge>
+                <edge source="com.strategy.PayFactory" target="com.strategy.pay.WeChatPay">
+                  <point x="-108.0" y="-39.0" />
+                  <point x="422.93000000000006" y="234.0" />
+                  <point x="99.5" y="234.0" />
+                  <point x="0.0" y="27.0" />
+                </edge>
+                <edge source="com.strategy.PayFactory" target="com.strategy.pay.Payment">
+                  <point x="54.0" y="-39.0" />
+                  <point x="584.9300000000001" y="224.0" />
+                  <point x="647.5" y="224.0" />
+                  <point x="647.5" y="84.0" />
+                  <point x="592.3800000000001" y="84.0" />
+                  <point x="39.80000000000007" y="27.0" />
+                </edge>
+                <edge source="com.strategy.PayStrategy" target="com.strategy.PayFactory">
+                  <point x="-49.75" y="-27.0" />
+                  <point x="639.1800000000001" y="357.0" />
+                  <point x="530.9300000000001" y="357.0" />
+                  <point x="0.0" y="39.0" />
+                </edge>
+                <edge source="com.strategy.PayFactory" target="com.strategy.pay.VipPay">
+                  <point x="0.0" y="-39.0" />
+                  <point x="530.9300000000001" y="234.0" />
+                  <point x="537.5" y="234.0" />
+                  <point x="0.0" y="27.0" />
+                </edge>
+                <edge source="com.strategy.PayFactory" target="com.strategy.pay.AliPay">
+                  <point x="-54.0" y="-39.0" />
+                  <point x="476.93000000000006" y="224.0" />
+                  <point x="318.5" y="224.0" />
+                  <point x="0.0" y="27.0" />
+                </edge>
+                <edge source="com.strategy.PayStrategy" target="com.strategy.pay.Payment">
+                  <point x="49.75" y="-27.0" />
+                  <point x="738.6800000000001" y="357.0" />
+                  <point x="853.5" y="357.0" />
+                  <point x="853.5" y="74.0" />
+                  <point x="632.1800000000001" y="74.0" />
+                  <point x="79.60000000000002" y="27.0" />
+                </edge>
+                <edge source="com.strategy.PayFactory" target="com.strategy.PayTypeInterface">
+                  <point x="108.0" y="-39.0" />
+                  <point x="638.9300000000001" y="234.0" />
+                  <point x="750.5" y="234.0" />
+                  <point x="0.0" y="50.0" />
+                </edge>
+                <edge source="com.strategy.pay.AliPay" target="com.strategy.pay.Payment">
+                  <point x="0.0" y="-27.0" />
+                  <point x="318.5" y="84.0" />
+                  <point x="512.7800000000001" y="84.0" />
+                  <point x="-39.799999999999955" y="27.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="218.0" y="220.0" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/abstarctFactory/Computer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/strategy/PayTypeInterface.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            <state relative-caret-position="224">
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/abstarctFactory/Phone.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/strategy/pay/Payment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            <state relative-caret-position="364">
+              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/strategy/PayTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/strategy/pay/AliPay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/strategy/pay/WeChatPay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/strategy/pay/VipPay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/strategy/pojo/Order.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+              <folding>
+                <element signature="e#534#535#0" expanded="true" />
+                <element signature="e#572#573#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
+                <element signature="e#513#514#0" expanded="true" />
+                <element signature="e#549#550#0" expanded="true" />
+                <element signature="e#577#578#0" expanded="true" />
+                <element signature="e#611#612#0" expanded="true" />
+                <element signature="e#641#642#0" expanded="true" />
+                <element signature="e#687#688#0" expanded="true" />
+                <element signature="e#725#726#0" expanded="true" />
+                <element signature="e#757#758#0" expanded="true" />
+                <element signature="e#785#786#0" expanded="true" />
+                <element signature="e#827#828#0" expanded="true" />
+                <element signature="e#861#862#0" expanded="true" />
+                <element signature="e#893#894#0" expanded="true" />
+                <element signature="e#921#922#0" expanded="true" />
+                <element signature="e#963#964#0" expanded="true" />
+                <element signature="e#997#998#0" expanded="true" />
+                <element signature="e#1071#1072#0" expanded="true" />
+                <element signature="e#1101#1102#0" expanded="true" />
+                <element signature="e#1147#1148#0" expanded="true" />
+                <element signature="e#1185#1186#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -107,109 +287,151 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>D:\工作学习\咕泡\workspace\repertory\src\main\java\com\proxy</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/simpleFactory/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/simpleFactory/SimpleFactoryTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/factoryMethod/pojo/FruitFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/simpleFactory/AppleFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/factoryMethod/FruitFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/factoryMethod/pojo/Orange.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/simpleFactory/pojo/Apple.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/factoryMethod/pojo/Banana.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/factoryMethod/BananaFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/factoryMethod/OrangeFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/factoryMethod/FactoryMethodTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/abstarctFactory/EleFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/abstarctFactory/pojo/HWPhone.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/abstarctFactory/pojo/HWComputer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/abstarctFactory/MP3.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/abstarctFactory/pojo/HWMP3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/abstarctFactory/Phone.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/abstarctFactory/pojo/HWPhone.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/abstarctFactory/Computer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/abstarctFactory/pojo/HWComputer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/abstarctFactory/HWFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/factoryMethod/Fruit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/factoryMethod/pojo/Banana.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/factoryMethod/pojo/Orange.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/factoryMethod/pojo/Fruit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/factoryMethod/FruitFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/factoryMethod/OrangeFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/factoryMethod/BananaFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simpleFactory/pojo/Apple.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simpleFactory/AppleFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simpleFactory/SimpleFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/factoryMethod/FactoryMethodTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/abstarctFactory/AbstarctFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/singleton/huangry/HuangrySingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/singleton/lazy/DoubleCheckLazySingleton.java" />
+        <option value="$PROJECT_DIR$/src/test/java/EnumTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/WeekDayEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/singleton/register/EnumSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/singleton/register/ContainerSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/singleton/lazy/LazySingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/singleton/lazy/LazyInnerSingleton.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pattern/singleton/LazyInnerSingletonTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pattern/singleton/SeriableSingletonTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/singleton/seriable/SeriableSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/proxy/staticproxy/pojo/GasCompany.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/proxy/staticproxy/pojo/XinAoGas.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/proxy/staticproxy/pojo/StaticCompanyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/proxy/DynamicProxy/DynamicProxyGasCom.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/proxy/staticproxy/pojo/GasProxy.java" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/dbroute/db/DynamicDataSourceEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/strategy/Order.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/strategy/PayTypeInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/strategy/PayFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/strategy/pay/WeChatPay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/strategy/pay/VipPay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/strategy/pay/AliPay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/strategy/PayStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/strategy/pay/Payment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/strategy/pojo/Order.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/proxy/DynamicProxy/DynamicProxyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/strategy/PayTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
+    <option name="x" value="178" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="DesignPatternPro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatternPro" type="462c0819:PsiDirectoryNode" />
+              <item name="repertory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repertory" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DesignPatternPro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatternPro" type="462c0819:PsiDirectoryNode" />
+              <item name="repertory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repertory" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DesignPatternPro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatternPro" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPatternPro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatternPro" type="462c0819:PsiDirectoryNode" />
+              <item name="repertory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repertory" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DesignPatternPro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatternPro" type="462c0819:PsiDirectoryNode" />
+              <item name="repertory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repertory" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DesignPatternPro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatternPro" type="462c0819:PsiDirectoryNode" />
+              <item name="repertory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repertory" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="abstarctFactory" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DesignPatternPro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatternPro" type="462c0819:PsiDirectoryNode" />
+              <item name="repertory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repertory" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="abstarctFactory" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="repertory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repertory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552062658408" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552668459630" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../设计模式/20190313-委派及策略/gupaoedu-vip-pattern-strategy" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -226,13 +448,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FactoryMethodTest">
-    <configuration name="FactoryMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.factoryMethod.FactoryMethodTest" />
+  <component name="RunManager" selected="Application.PayTest">
+    <configuration name="DynamicProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.proxy.DynamicProxy.DynamicProxyTest" />
       <module name="DesignPatternPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.factoryMethod.*" />
+          <option name="PATTERN" value="com.proxy.DynamicProxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,23 +462,112 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.simpleFactory.SimpleFactoryTest" />
+    <configuration name="LazyInnerSingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.singleton.LazyInnerSingletonTest" />
       <module name="DesignPatternPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.simpleFactory.*" />
+          <option name="PATTERN" value="pattern.singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.strategy.PayTest" />
+      <module name="DesignPatternPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeriableSingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.singleton.SeriableSingletonTest" />
+      <module name="DesignPatternPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pattern.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticCompanyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.proxy.staticproxy.pojo.StaticCompanyTest" />
+      <module name="DesignPatternPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.proxy.staticproxy.pojo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FactoryMethodTest" />
-        <item itemvalue="Application.SimpleFactoryTest" />
+        <item itemvalue="Application.PayTest" />
+        <item itemvalue="Application.DynamicProxyTest" />
+        <item itemvalue="Application.StaticCompanyTest" />
+        <item itemvalue="Application.SeriableSingletonTest" />
+        <item itemvalue="Application.LazyInnerSingletonTest" />
       </list>
     </recent_temporary>
   </component>
@@ -271,324 +582,601 @@
       <option name="presentableId" value="Default" />
       <updated>1552052221402</updated>
       <workItem from="1552052224598" duration="9224000" />
+      <workItem from="1552064015645" duration="122000" />
+      <workItem from="1552108858960" duration="3016000" />
+      <workItem from="1552195990373" duration="82000" />
+      <workItem from="1552278526400" duration="1693000" />
+      <workItem from="1552306528326" duration="37000" />
+      <workItem from="1552315499629" duration="5339000" />
+      <workItem from="1552364931840" duration="1377000" />
+      <workItem from="1552394869704" duration="6140000" />
+      <workItem from="1552401643046" duration="2910000" />
+      <workItem from="1552489470521" duration="377000" />
+      <workItem from="1552489887323" duration="617000" />
+      <workItem from="1552567785308" duration="8587000" />
+      <workItem from="1552649164847" duration="6625000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9224000" />
+    <option name="totallyTimeSpent" value="46146000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="68" y="20" width="1400" height="784" extended-state="0" />
+    <frame x="143" y="0" width="1400" height="784" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962743" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3323398" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32924962" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32924962" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.14968152" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398827" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32324842" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962743" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/proxy/DynamicProxy/DynamicProxyGasCom.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/proxy/DynamicProxy/DynamicProxyGasCom.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/proxy/DynamicProxy/DynamicProxyGasCom.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simpleFactory/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="261" column="47" selection-start-line="261" selection-start-column="47" selection-end-line="261" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simpleFactory/SimpleFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/factoryMethod/pojo/FruitFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/sfsfsf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/factoryMethod/pojo/factory/sfsfsdf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simpleFactory/AppleFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="e#566#567#0" expanded="true" />
-            <element signature="e#637#638#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.factoryMethod.FruitFactory">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.factoryMethod.FruitFactory</OriginalElement>
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="58.5" y="156.5" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/factoryMethod/pojo/Orange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/factoryMethod/Fruit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simpleFactory/pojo/Apple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/factoryMethod/pojo/Banana.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/factoryMethod/FruitFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/factoryMethod/BananaFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/factoryMethod/OrangeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding>
-            <element signature="e#250#251#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.factoryMethod.FactoryMethodTest">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.factoryMethod.FactoryMethodTest</OriginalElement>
-          <nodes>
-            <node x="61.75" y="203.0">com.factoryMethod.Fruit</node>
-            <node x="0.0" y="284.0">com.factoryMethod.pojo.Banana</node>
-            <node x="0.0" y="360.0">com.factoryMethod.FactoryMethodTest</node>
-            <node x="201.0" y="104.0">com.factoryMethod.OrangeFactory</node>
-            <node x="108.25" y="0.0">com.factoryMethod.FruitFactory</node>
-            <node x="0.0" y="104.0">com.factoryMethod.BananaFactory</node>
-            <node x="108.0" y="284.0">com.factoryMethod.pojo.Orange</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.factoryMethod.BananaFactory" target="com.factoryMethod.FruitFactory">
-              <point x="0.0" y="-27.0" />
-              <point x="90.5" y="79.0" />
-              <point x="150.0" y="79.0" />
-              <point x="-41.75" y="27.0" />
-            </edge>
-            <edge source="com.factoryMethod.OrangeFactory" target="com.factoryMethod.FruitFactory">
-              <point x="0.0" y="-27.0" />
-              <point x="293.0" y="79.0" />
-              <point x="233.5" y="79.0" />
-              <point x="41.75" y="27.0" />
-            </edge>
-            <edge source="com.factoryMethod.pojo.Banana" target="com.factoryMethod.Fruit">
-              <point x="0.0" y="-15.5" />
-              <point x="44.0" y="259.0" />
-              <point x="80.25" y="259.0" />
-              <point x="-18.5" y="15.5" />
-            </edge>
-            <edge source="com.factoryMethod.pojo.Orange" target="com.factoryMethod.Fruit">
-              <point x="0.0" y="-15.5" />
-              <point x="153.5" y="259.0" />
-              <point x="117.25" y="259.0" />
-              <point x="18.5" y="15.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-176.5" y="171.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/factoryMethod/FactoryMethodTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        <state relative-caret-position="308">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abstarctFactory/MP3.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/singleton/huangry/HuangrySingleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        <state relative-caret-position="336">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abstarctFactory/Phone.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/singleton/seriable/SeriableSingleton" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/singleton/lazy/LazySingleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="476">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abstarctFactory/Computer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/singleton/lazy/DoubleCheckLazySingleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        <state relative-caret-position="532">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abstarctFactory/EleFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/singleton/lazy/LazyInnerSingleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="392">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abstarctFactory/pojo/HWMP3.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/singleton/register/EnumSingleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        <state relative-caret-position="308">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abstarctFactory/pojo/HWPhone.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pattern/singleton/LazyInnerSingletonTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        <state relative-caret-position="700">
+          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/io/ObjectInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67760">
+          <caret line="2471" column="24" selection-start-line="2471" selection-start-column="24" selection-end-line="2471" selection-end-column="24" />
+          <folding>
+            <element signature="e#96831#96832#0" expanded="true" />
+            <element signature="e#96869#96870#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/singleton/register/ContainerSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/io/ObjectOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="1183" selection-start-line="1183" selection-end-line="1183" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/abstarctFactory/pojo/HWComputer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="224">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abstarctFactory/AbstarctFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+    <entry file="uml://JavaScript-modules-diagram/D:/工作学习/咕泡/workspace/repertory/src/main/java/com/proxy">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/main/java/com/proxy</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="549.0" y="314.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Overview</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/com.abstarctFactory.HWFactory">
+    <entry file="uml://JAVA/com.abstarctFactory.pojo.MP3">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
-          <OriginalElement>com.abstarctFactory.HWFactory</OriginalElement>
+          <OriginalElement>com.abstarctFactory.pojo.MP3</OriginalElement>
           <nodes>
             <node x="" y="">com.abstarctFactory.HWFactory</node>
             <node x="" y="">com.abstarctFactory.pojo.HWComputer</node>
+            <node x="" y="">com.abstarctFactory.pojo.Computer</node>
+            <node x="" y="">com.abstarctFactory.pojo.Phone</node>
             <node x="" y="">com.abstarctFactory.pojo.HWPhone</node>
-            <node x="" y="">com.abstarctFactory.Phone</node>
+            <node x="" y="">com.abstarctFactory.pojo.MP3</node>
+            <node x="" y="">com.abstarctFactory.AbstarctFactoryTest</node>
             <node x="" y="">com.abstarctFactory.pojo.HWMP3</node>
-            <node x="" y="">com.abstarctFactory.Computer</node>
-            <node x="" y="">com.abstarctFactory.MP3</node>
             <node x="" y="">com.abstarctFactory.EleFactory</node>
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="116.5" y="125.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="399.0" y="239.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>protected</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/dynamicproxy/jdkproxy/Girl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/dynamicproxy/gpproxy/GPInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/dynamicproxy/gpproxy/GPClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/dbroute/Order.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/dbroute/OrderDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/dbroute/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/dbroute/IOrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/staticproxy/FatherProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/Person.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/staticproxy/Son.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/staticproxy/Father.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.proxy.staticproxy.pojo">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.proxy.staticproxy.pojo</OriginalElement>
+          <nodes>
+            <node x="241.0" y="128.0">com.proxy.staticproxy.pojo.XinAoGas</node>
+            <node x="0.0" y="104.0">com.proxy.staticproxy.pojo.GasProxy</node>
+            <node x="88.25" y="0.0">com.proxy.staticproxy.pojo.GasCompany</node>
+            <node x="78.75" y="256.0">com.proxy.staticproxy.pojo.StaticCompanyTest</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.proxy.staticproxy.pojo.StaticCompanyTest" target="com.proxy.staticproxy.pojo.XinAoGas">
+              <point x="58.0" y="-27.0" />
+              <point x="223.75" y="231.0" />
+              <point x="318.5" y="231.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="com.proxy.staticproxy.pojo.StaticCompanyTest" target="com.proxy.staticproxy.pojo.GasProxy">
+              <point x="-58.0" y="-27.0" />
+              <point x="107.75" y="231.0" />
+              <point x="55.25" y="231.0" />
+              <point x="-55.25" y="51.0" />
+            </edge>
+            <edge source="com.proxy.staticproxy.pojo.XinAoGas" target="com.proxy.staticproxy.pojo.GasCompany">
+              <point x="0.0" y="-27.0" />
+              <point x="318.5" y="79.0" />
+              <point x="217.41666666666663" y="79.0" />
+              <point x="51.66666666666663" y="27.0" />
+            </edge>
+            <edge source="com.proxy.staticproxy.pojo.GasProxy" target="com.proxy.staticproxy.pojo.GasCompany">
+              <point x="-55.25" y="-51.0" />
+              <point x="55.25" y="79.0" />
+              <point x="114.08333333333334" y="79.0" />
+              <point x="-51.66666666666666" y="27.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-75.0" y="166.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>protected</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/proxy/staticproxy/pojo/GasCompany.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/proxy/staticproxy/pojo/XinAoGas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <element signature="e#252#253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/proxy/staticproxy/pojo/GasProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding>
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/dynamicproxy/gpproxy/GPProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/dbroute/proxy/OrderServiceStaticProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/dbroute/DbRouteProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/dynamicproxy/jdkproxy/JDKMeipo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="20" column="63" lean-forward="true" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/singleton/seriable/SeriableSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+          <folding>
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pattern/singleton/SeriableSingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/dynamicproxy/jdkproxy/JDKProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="20" column="67" lean-forward="true" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/proxy/DynamicProxy/DynamicProxyGasCom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#899#900#0" expanded="true" />
+            <element signature="e#947#948#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/dbroute/db/DynamicDataSourceEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/proxy/staticproxy/pojo/StaticCompanyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/strategy/PayStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/strategy/pay/WeChatPay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.strategy">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.strategy</OriginalElement>
+          <nodes>
+            <node x="" y="">com.strategy.pay.WeChatPay</node>
+            <node x="" y="">com.strategy.PayFactory</node>
+            <node x="" y="">com.strategy.pay.VipPay</node>
+            <node x="" y="">com.strategy.pay.AliPay</node>
+            <node x="" y="">com.strategy.PayTypeInterface</node>
+            <node x="" y="">com.strategy.pay.Payment</node>
+            <node x="" y="">com.strategy.PayStrategy</node>
+            <node x="" y="">com.strategy.pojo.Order</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="369.0" y="386.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Constructors</Category>
+            <Category>Fields</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/strategy/PayFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#226#241#0" expanded="true" />
+            <element signature="e#752#753#0" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.strategy.PayFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.strategy.PayFactory</OriginalElement>
+          <nodes>
+            <node x="0.0" y="127.0">com.strategy.pay.WeChatPay</node>
+            <node x="395.93000000000006" y="254.0">com.strategy.PayFactory</node>
+            <node x="219.0" y="127.0">com.strategy.pay.AliPay</node>
+            <node x="438.0" y="127.0">com.strategy.pay.VipPay</node>
+            <node x="658.0" y="104.0">com.strategy.PayTypeInterface</node>
+            <node x="453.08000000000004" y="0.0">com.strategy.pay.Payment</node>
+            <node x="589.4300000000001" y="382.0">com.strategy.PayStrategy</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.strategy.pay.WeChatPay" target="com.strategy.pay.Payment">
+              <point x="0.0" y="-27.0" />
+              <point x="99.5" y="74.0" />
+              <point x="472.98" y="74.0" />
+              <point x="-79.60000000000002" y="27.0" />
+            </edge>
+            <edge source="com.strategy.pay.VipPay" target="com.strategy.pay.Payment">
+              <point x="0.0" y="-27.0" />
+              <point x="537.5" y="84.0" />
+              <point x="552.58" y="84.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="com.strategy.PayFactory" target="com.strategy.pay.WeChatPay">
+              <point x="-108.0" y="-39.0" />
+              <point x="422.93000000000006" y="234.0" />
+              <point x="99.5" y="234.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="com.strategy.PayFactory" target="com.strategy.pay.Payment">
+              <point x="54.0" y="-39.0" />
+              <point x="584.9300000000001" y="224.0" />
+              <point x="647.5" y="224.0" />
+              <point x="647.5" y="84.0" />
+              <point x="592.3800000000001" y="84.0" />
+              <point x="39.80000000000007" y="27.0" />
+            </edge>
+            <edge source="com.strategy.PayStrategy" target="com.strategy.PayFactory">
+              <point x="-49.75" y="-27.0" />
+              <point x="639.1800000000001" y="357.0" />
+              <point x="530.9300000000001" y="357.0" />
+              <point x="0.0" y="39.0" />
+            </edge>
+            <edge source="com.strategy.PayFactory" target="com.strategy.pay.VipPay">
+              <point x="0.0" y="-39.0" />
+              <point x="530.9300000000001" y="234.0" />
+              <point x="537.5" y="234.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="com.strategy.PayFactory" target="com.strategy.pay.AliPay">
+              <point x="-54.0" y="-39.0" />
+              <point x="476.93000000000006" y="224.0" />
+              <point x="318.5" y="224.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="com.strategy.PayStrategy" target="com.strategy.pay.Payment">
+              <point x="49.75" y="-27.0" />
+              <point x="738.6800000000001" y="357.0" />
+              <point x="853.5" y="357.0" />
+              <point x="853.5" y="74.0" />
+              <point x="632.1800000000001" y="74.0" />
+              <point x="79.60000000000002" y="27.0" />
+            </edge>
+            <edge source="com.strategy.PayFactory" target="com.strategy.PayTypeInterface">
+              <point x="108.0" y="-39.0" />
+              <point x="638.9300000000001" y="234.0" />
+              <point x="750.5" y="234.0" />
+              <point x="0.0" y="50.0" />
+            </edge>
+            <edge source="com.strategy.pay.AliPay" target="com.strategy.pay.Payment">
+              <point x="0.0" y="-27.0" />
+              <point x="318.5" y="84.0" />
+              <point x="512.7800000000001" y="84.0" />
+              <point x="-39.799999999999955" y="27.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="218.0" y="220.0" />
           <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
@@ -600,19 +1188,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/abstarctFactory/HWFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/strategy/pay/VipPay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        <state relative-caret-position="239">
+          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/strategy/pay/Payment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/strategy/pay/AliPay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/strategy/pojo/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+          <folding>
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#785#786#0" expanded="true" />
+            <element signature="e#827#828#0" expanded="true" />
+            <element signature="e#861#862#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#921#922#0" expanded="true" />
+            <element signature="e#963#964#0" expanded="true" />
+            <element signature="e#997#998#0" expanded="true" />
+            <element signature="e#1071#1072#0" expanded="true" />
+            <element signature="e#1101#1102#0" expanded="true" />
+            <element signature="e#1147#1148#0" expanded="true" />
+            <element signature="e#1185#1186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/strategy/PayTypeInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/proxy/DynamicProxy/DynamicProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/strategy/PayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
         </state>
       </provider>
     </entry>

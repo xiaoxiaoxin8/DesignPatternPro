@@ -1,7 +1,5 @@
 package com.factoryMethod.pojo;
 
-import com.factoryMethod.Fruit;
-
 /**
  * @program: DesignPatternPro
  * @description: 橘子对象
@@ -9,4 +7,7 @@ import com.factoryMethod.Fruit;
  * @create: 2019-03-08 22:29
  **/
 public class Orange implements Fruit {
+    public void name() {
+        System.out.println("我是一个橘子");
+    }
 }

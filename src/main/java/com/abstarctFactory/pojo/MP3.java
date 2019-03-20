@@ -1,4 +1,4 @@
-package com.abstarctFactory;
+package com.abstarctFactory.pojo;
 
 /**
  * @program: DesignPatternPro

@@ -1,5 +1,9 @@
 package com.abstarctFactory;
 
+import com.abstarctFactory.pojo.Computer;
+import com.abstarctFactory.pojo.MP3;
+import com.abstarctFactory.pojo.Phone;
+
 /**
  * @program: DesignPatternPro
  * @description: 电子产品工厂接口

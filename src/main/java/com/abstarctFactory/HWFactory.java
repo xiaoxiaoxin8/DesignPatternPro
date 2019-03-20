@@ -1,8 +1,6 @@
 package com.abstarctFactory;
 
-import com.abstarctFactory.pojo.HWComputer;
-import com.abstarctFactory.pojo.HWMP3;
-import com.abstarctFactory.pojo.HWPhone;
+import com.abstarctFactory.pojo.*;
 
 /**
  * @program: DesignPatternPro
