@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc8738ad-ef3d-46ff-ac4d-dd7951489b7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/adapter/CommunicationJSON.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/adapter/CommunicationXML.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/observerpattern/v1/GPer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/observerpattern/v1/ObserverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/observerpattern/v1/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/observerpattern/v1/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/observerpattern/v2/GuavaGPer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/observerpattern/v2/GuavaGPerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/observerpattern/v2/GuavaTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prototype/deep/DeepTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prototype/deep/Mike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prototype/deep/Singer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prototype/simple/Prototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prototype/simple/PrototypeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prototype/simple/RoomBean.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -39,63 +36,99 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/observerpattern/v1/Teacher.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/simple/PrototypeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="182">
+              <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/deep/Singer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="60" column="32" selection-start-line="60" selection-start-column="32" selection-end-line="60" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+                <element signature="e#517#518#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
+                <element signature="e#607#608#0" expanded="true" />
+                <element signature="e#645#646#0" expanded="true" />
+                <element signature="e#677#678#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/deep/DeepTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/io/ObjectOutputStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="1183" selection-start-line="1183" selection-end-line="1183" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Cloneable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/observerpattern/v2/GuavaTeacher.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/deep/Mike.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state relative-caret-position="224">
+              <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#229#230#0" expanded="true" />
-                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#246#247#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
+                <element signature="e#426#427#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/observerpattern/v1/ObserverTest.java">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            <state relative-caret-position="7896">
+              <caret line="282" column="12" selection-start-line="282" selection-start-column="12" selection-end-line="282" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/observerpattern/v1/GPer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-            </state>
-          </provider>
+        <entry file="file://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.5.RELEASE/spring-core-5.1.5.RELEASE.pom">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/observerpattern/v2/GuavaGPer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="700">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -106,45 +139,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/observerpattern/v2/GuavaGPerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+            <state relative-caret-position="364">
+              <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/observerpattern/v1/Question.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-              <folding>
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#294#295#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/javafx-src.zip!/javafx/beans/Observable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/strategy/pojo/Order.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-              <folding>
-                <element signature="e#534#535#0" expanded="true" />
-                <element signature="e#572#573#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -162,6 +160,9 @@
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>clone</find>
+    </findStrings>
     <dirStrings>
       <dir>D:\工作学习\咕泡\workspace\repertory\src\main\java\com\proxy</dir>
     </dirStrings>
@@ -172,19 +173,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/abstarctFactory/HWFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/factoryMethod/Fruit.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/factoryMethod/pojo/Banana.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/factoryMethod/pojo/Orange.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/factoryMethod/pojo/Fruit.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/factoryMethod/FruitFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/factoryMethod/OrangeFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/factoryMethod/BananaFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simpleFactory/pojo/Apple.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simpleFactory/AppleFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simpleFactory/SimpleFactoryTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/factoryMethod/FactoryMethodTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/abstarctFactory/AbstarctFactoryTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/singleton/huangry/HuangrySingleton.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/singleton/lazy/DoubleCheckLazySingleton.java" />
         <option value="$PROJECT_DIR$/src/test/java/EnumTest.java" />
@@ -218,16 +212,23 @@
         <option value="$PROJECT_DIR$/src/main/java/com/observerpattern/v1/Question.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/observerpattern/v1/GPer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/observerpattern/v1/Teacher.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/observerpattern/v1/ObserverTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/observerpattern/v2/GuavaGPer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/observerpattern/v2/GuavaGPerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/observerpattern/v2/GuavaTeacher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/abstarctFactory/AbstarctFactoryTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/prototype/simple/Prototype.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/prototype/simple/RoomBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/prototype/simple/PrototypeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/prototype/deep/DeepTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/prototype/deep/Singer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/prototype/deep/Mike.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-28" />
+    <option name="x" value="-30" />
     <option name="y" value="50" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
@@ -238,6 +239,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -278,7 +280,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="observerpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="prototype" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="repertory" type="b2602c69:ProjectViewProjectNode" />
@@ -287,8 +289,8 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="observerpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="v1" type="462c0819:PsiDirectoryNode" />
+              <item name="prototype" type="462c0819:PsiDirectoryNode" />
+              <item name="deep" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="repertory" type="b2602c69:ProjectViewProjectNode" />
@@ -297,8 +299,8 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="observerpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="v2" type="462c0819:PsiDirectoryNode" />
+              <item name="prototype" type="462c0819:PsiDirectoryNode" />
+              <item name="simple" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="repertory" type="b2602c69:ProjectViewProjectNode" />
@@ -308,14 +310,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553264524966" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557499354725" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -333,13 +334,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GuavaGPerTest">
-    <configuration name="DynamicProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.proxy.DynamicProxy.DynamicProxyTest" />
+  <component name="RunManager" selected="Application.DeepTest">
+    <configuration name="DeepTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prototype.deep.DeepTest" />
       <module name="DesignPatternPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.proxy.DynamicProxy.*" />
+          <option name="PATTERN" value="com.prototype.deep.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -360,6 +361,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Mike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prototype.deep.Mike" />
+      <module name="DesignPatternPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prototype.deep.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ObserverTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.observerpattern.v1.ObserverTest" />
       <module name="DesignPatternPro" />
@@ -373,25 +387,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.strategy.PayTest" />
+    <configuration name="PrototypeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prototype.simple.PrototypeTest" />
       <module name="DesignPatternPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.strategy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StaticCompanyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.proxy.staticproxy.pojo.StaticCompanyTest" />
-      <module name="DesignPatternPro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.proxy.staticproxy.pojo.*" />
+          <option name="PATTERN" value="com.prototype.simple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -448,11 +449,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeepTest" />
+        <item itemvalue="Application.Mike" />
+        <item itemvalue="Application.PrototypeTest" />
         <item itemvalue="Application.GuavaGPerTest" />
         <item itemvalue="Application.ObserverTest" />
-        <item itemvalue="Application.PayTest" />
-        <item itemvalue="Application.DynamicProxyTest" />
-        <item itemvalue="Application.StaticCompanyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -481,18 +482,23 @@
       <workItem from="1552567785308" duration="8587000" />
       <workItem from="1552649164847" duration="6625000" />
       <workItem from="1553171743357" duration="6370000" />
-      <workItem from="1553260677956" duration="3788000" />
+      <workItem from="1553260677956" duration="4766000" />
+      <workItem from="1554292779486" duration="34000" />
+      <workItem from="1554882019330" duration="375000" />
+      <workItem from="1554987626257" duration="36000" />
+      <workItem from="1557408833763" duration="3986000" />
+      <workItem from="1557496327784" duration="2465000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56304000" />
+    <option name="totallyTimeSpent" value="64178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19638069" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20978552" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -555,64 +561,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="uml://JavaScript-modules-diagram/D:/工作学习/咕泡/workspace/repertory/src/main/java/com/proxy">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/src/main/java/com/proxy</OriginalElement>
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="549.0" y="314.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>Overview</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.abstarctFactory.pojo.MP3">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.abstarctFactory.pojo.MP3</OriginalElement>
-          <nodes>
-            <node x="" y="">com.abstarctFactory.HWFactory</node>
-            <node x="" y="">com.abstarctFactory.pojo.HWComputer</node>
-            <node x="" y="">com.abstarctFactory.pojo.Computer</node>
-            <node x="" y="">com.abstarctFactory.pojo.Phone</node>
-            <node x="" y="">com.abstarctFactory.pojo.HWPhone</node>
-            <node x="" y="">com.abstarctFactory.pojo.MP3</node>
-            <node x="" y="">com.abstarctFactory.AbstarctFactoryTest</node>
-            <node x="" y="">com.abstarctFactory.pojo.HWMP3</node>
-            <node x="" y="">com.abstarctFactory.EleFactory</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="399.0" y="239.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>protected</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/dynamicproxy/jdkproxy/Girl.java" />
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/dynamicproxy/gpproxy/GPInvocationHandler.java" />
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/dynamicproxy/gpproxy/GPClassLoader.java" />
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/dbroute/Order.java" />
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/dbroute/OrderDao.java" />
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/dbroute/OrderService.java" />
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/dbroute/IOrderService.java" />
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/staticproxy/FatherProxyTest.java" />
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/Person.java" />
-    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/staticproxy/Son.java" />
     <entry file="file://$PROJECT_DIR$/gupaoedu-vip-pattern-proxy01/src/main/java/com/gupaoedu/vip/pattern/proxy/staticproxy/Father.java" />
     <entry file="uml://JAVA/com.proxy.staticproxy.pojo">
       <provider selected="true" editor-type-id="UmlEditorProvider">
@@ -973,13 +921,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/observerpattern/v1/Question.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -998,37 +939,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/observerpattern/v1/ObserverTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/observerpattern/v1/Teacher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9">
+        <state relative-caret-position="280">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/observerpattern/v2/GuavaGPerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/observerpattern/v2/GuavaGPer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1037,12 +951,149 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/observerpattern/v2/GuavaTeacher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
+        <state relative-caret-position="168">
           <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/observerpattern/v1/ObserverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/simple/Prototype.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/simple/RoomBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#831#832#0" expanded="true" />
+            <element signature="e#861#862#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/abstarctFactory/AbstarctFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/jre/lib/rt.jar!/com/sun/xml/internal/ws/resources/WsservletMessages.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7896">
+          <caret line="282" column="12" selection-start-line="282" selection-start-column="12" selection-end-line="282" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.5.RELEASE/spring-core-5.1.5.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/observerpattern/v2/GuavaGPer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/observerpattern/v2/GuavaGPerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/simple/PrototypeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Cloneable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/deep/Singer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="60" column="32" selection-start-line="60" selection-start-column="32" selection-end-line="60" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/deep/DeepTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/io/ObjectOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="1183" selection-start-line="1183" selection-end-line="1183" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/deep/Mike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding>
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
           </folding>
         </state>
       </provider>
